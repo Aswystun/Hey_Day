@@ -22,5 +22,7 @@ read -s name
 echo "Hey, $name! Did you know today is Hey Day?!"
 ```
 
+### This event is a yearly tradition that dates back to shortly after the second world-war.
+### Every year on October the 15<sup>th</sup>, Auburn students wear name tags and greet one another wherever they go that day.
 ## You can find more about the history of Hey Day **[here](https://sga.auburn.edu/hey-day/)** 
 ![alt text](https://sga.auburn.edu/wp-content/uploads/2024/10/20231018_Hey-Day_EOE_9422-768x512.jpg "Auburn")
